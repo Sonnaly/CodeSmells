@@ -55,5 +55,6 @@ class Grupo1_OrderCalculator {
         // SUBSTITUÍDO: Usando a constante na chamada do método
         System.out.println(calcularTotal(itens, PAIS_BRASIL, true));
     }
+
 }
 
